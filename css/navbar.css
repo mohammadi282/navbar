@@ -5,3 +5,20 @@ li a{
     width: 100%;
     height: 100%;
 }
+table{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-items: center;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+td,tr{
+    align-items: center;
+    justify-items: center;
+    width: 200px;
+    border: 1px solid black;
+}
+img{
+    width: 200px;
+}
